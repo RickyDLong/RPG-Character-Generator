@@ -1,0 +1,2 @@
+# RPG-Character-Generator
+This is a character creation tool based off of a role playing game. The program asks the user to select a race, class, and a profession.                        Each race and class has their own attributes known as stat(statistic)                        points.                         The program recognizes which race / class combination you choose and then calculates the appropriate stat points for that combination.
