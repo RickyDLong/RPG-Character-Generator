@@ -1,8 +1,8 @@
-//Name: Ricky Long                      Date Assigned: 3/26/2020
+//Name:                       Date Assigned: 3/26/2020
 //
 //Course: CSCI 2003 63794               Date Due: 3/31/2020
 //
-//Instructor: Ms. Greer
+//Instructor: 
 //
 //File Name: Creation.java
 //
